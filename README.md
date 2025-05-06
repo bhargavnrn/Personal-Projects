@@ -32,5 +32,5 @@ Agentics AI is an AI-powered ticket management and workflow automation system de
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/agentics-ai.git
+git clone https://github.com//agentics-ai.git
 cd agentics-ai
